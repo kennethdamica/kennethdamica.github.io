@@ -8,4 +8,4 @@ I'm a data analyst on Uber's growth team. This is my blog where I talk about Pyt
 
 ### Contact me on twitter
 
-@kdamica
+[@kdamica](https://twitter.com/kdamica)
